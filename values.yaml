@@ -1,3 +1,8 @@
 
 status-app:
-  rollout: false
+  rollout: true
+
+  test_status_code: "200"
+
+  image:
+    tag: "1.0.1"
