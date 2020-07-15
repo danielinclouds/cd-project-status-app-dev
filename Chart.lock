@@ -1,0 +1,6 @@
+dependencies:
+- name: status-app
+  repository: file://../status_app/helm
+  version: 0.1.0
+digest: sha256:f939fa7d8f805ba999f25f1e84e6a6eb66badc1fbcdf03adda0b42f7abff1c13
+generated: "2020-07-15T10:47:19.898383+01:00"
