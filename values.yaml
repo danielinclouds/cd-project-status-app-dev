@@ -2,7 +2,7 @@
 status-app:
   rollout: true
 
-  test_status_code: "404"
+  test_status_code: "200"
 
   image:
-    tag: "1.0.2"
+    tag: "1.0.3"
